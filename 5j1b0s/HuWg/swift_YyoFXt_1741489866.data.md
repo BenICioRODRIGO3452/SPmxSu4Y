@@ -1842,7 +1842,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2025` `objc` 
   -  ☆`11369` 
 - [Hackfoldr](https://github.com/hackfoldr/hackfoldr-iOS): Share all your project documents with a link
-  - <a href=https://hackfoldr.org>`https://hackfoldr.org`</a>
   - [` App Store`](https://apps.apple.com/app/hackfoldr/id919010837) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/32/15/1a/32151a02-4fb8-70e2-8d43-e361bee0722a/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/16/62/14/16621422-f94c-a589-e5c6-3696177647a2/pr_source.png/460x0w.jpg'>`Screenshot 2`</a> 
   -  `2019` `objc` 
   -  ☆`25` 
