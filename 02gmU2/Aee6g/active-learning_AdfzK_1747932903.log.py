@@ -160,7 +160,6 @@ def load_data(filepath, skip_already_labeled=False):
     with open(filepath, 'r') as csvfile:
         data = []
         reader = csv.reader(csvfile)
-        for row in reader:
             if skip_already_labeled and row[0] in already_labeled:
         	    continue
         		
