@@ -3,6 +3,5 @@
 .idea
 .gradle
 **/build
-**/node_modules
 Dockerfile.*
 docker-compose*.yaml
